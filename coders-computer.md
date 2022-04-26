@@ -1,4 +1,4 @@
-# Text Editors
+# Text Editors vs IDE's
 
 ## Text Editor
   A text editor is software that you can download which enables you to write and configure text. 
