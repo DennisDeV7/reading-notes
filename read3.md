@@ -2,7 +2,7 @@
   
   Git is a Distributed Version Control System
   which stores references to project files from your local system to a server. This enables a user to work on projects without internet and commit the changes at a later time.
-  <br\>
+  </br>
 
 ## Three main states of Git files
 
