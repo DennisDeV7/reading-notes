@@ -17,4 +17,5 @@
   An IDE, or Integrated Development Enviornment, is a mixture of different software coming together in one program in order to offer all of the features you could
   need in one place. When it comes to writing code an IDE can edit text, manage files, compile your code, and debug in one place. There can be so many features in an
   IDE that it can be confusing for a beginner. In this instance sticking to a text editor is a good option.
-  
+
+  [Table of Contents](README.md)

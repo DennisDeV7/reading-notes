@@ -28,3 +28,5 @@
     -view short names of remote handles
   8. git remote -v
     -view all remote URL's next to their short names.
+
+[Table of Contents](README.md)

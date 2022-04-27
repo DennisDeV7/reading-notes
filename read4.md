@@ -65,3 +65,5 @@
 ## Semantics
 
   Semantics refers to the meaning of written code. Many of the tags listed above are considered semantic elements because they give their inner content meaning
+
+  [Table of Contents](README.md)
