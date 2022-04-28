@@ -8,8 +8,8 @@ Comments are made the same way as C++
 `// is a one line comment`
 
 `/* This is,`
- `* a multi-line`
- `*/ comment`
+`* a multi-line`
+`*/ comment`
 
 ## Declarations
 
@@ -28,3 +28,6 @@ Comments are made the same way as C++
  5. BigInt: integer with arbitrary precision
  6. String: Sequence of characters that represent a text value
  7. Symbol: data type whose instances are unique and immutable
+
+  [Table of Contents](README.md)
+  
