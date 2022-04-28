@@ -18,11 +18,10 @@ If more than one style is mentioned in the HTML file, they will cascade in the f
 
 The color function does as it sounds and changes the color of the webpage. It uses the following syntax:
 
-color: color|initial|inherit;
+`color: color|initial|inherit;`
 
 - color: specifies text color
 - initial: sets the property to default
 - inherit: inherits this property from its parent element
 
   [Table of Contents](README.md)
-  

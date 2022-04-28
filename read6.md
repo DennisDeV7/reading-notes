@@ -5,11 +5,14 @@ JavaScript (JS) is an object oriented scripting language used to make webpages i
 ## Comments
 
 Comments are made the same way as C++
+
 `// is a one line comment`
 
-`/* This is,`
-`* a multi-line`
-`*/ comment`
+  `/* This is,`
+
+  `* a multi-line`
+
+  `*/ comment`
 
 ## Declarations
 
@@ -30,4 +33,3 @@ Comments are made the same way as C++
  7. Symbol: data type whose instances are unique and immutable
 
   [Table of Contents](README.md)
-  
