@@ -13,5 +13,7 @@ My name is Dennis DeVries
 - [Read 4 Notes](read4.md)
 - [Read 5 Notes](read5.md)
 - [Read 6 Notes](read6.md)
+- [Read 7 Notes](read7.md)
+- [Read 8 Notes](read8.md)
 
 [GitHub Profile](https://github.com/DennisDeV7)
