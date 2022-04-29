@@ -27,3 +27,5 @@ A loop is used to perform a task repeatedly based on a condition. There are many
 
 - while loop: a loop that repeats until a condition is met
 - for loop: repeats a specific amount of times
+
+[Table of Contents](README.md)

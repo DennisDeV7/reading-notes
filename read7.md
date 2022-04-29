@@ -31,3 +31,6 @@ A return statement will terminate or stop the execution of a function and return
 
 - `=` | `x=y` | `x=y`
 - `+=` | `x+=y` | `x=x+y`
+
+
+[Table of Contents](README.md)
