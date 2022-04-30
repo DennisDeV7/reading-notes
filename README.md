@@ -15,6 +15,5 @@ My name is Dennis DeVries
 - [Read 6 Notes](read6.md)
 - [Read 7 Notes](read7.md)
 - [Read 8 Notes](read8.md)
-- test
 
 [GitHub Profile](https://github.com/DennisDeV7)
