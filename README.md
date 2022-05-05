@@ -7,15 +7,7 @@ My name is Dennis DeVries
 
 ## Table of Contents
 
-- [Lab 01b Notes](lab1b.md)
-- [Read 2 Notes](read2.md)
-- [Read 3 Notes](read3.md)
-- [Read 4 Notes](read4.md)
-- [Read 5 Notes](read5.md)
-- [Read 6 Notes](read6.md)
-- [Read 7 Notes](read7.md)
-- [Read 8 Notes](read8.md)
-- test
-
+- [Code 102 Reading Notes](102Notes.md)
+- [Code 201 Reading Notes](201Notes.md)
 
 [GitHub Profile](https://github.com/DennisDeV7)
