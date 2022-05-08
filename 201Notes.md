@@ -4,7 +4,7 @@ This page contains a table of contents for all notes taken during Code 201 at Co
 
 ## Table of Contents
 
-- [Read 01](201read1.md)
+- [Read 01](class-01.md)
 - [Read 02](201read2.md)
 - [Read 03](201read3.md)
 - [Read 04](201read4.md)
