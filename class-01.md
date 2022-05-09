@@ -26,6 +26,9 @@ The book "JAVASCRIPT & JQUERY Interactive Front-End Web Development" by Jon Duck
 
 ## JS Chapter 1: The ABC of Programming
 
-One of the first things you need to know about programming is what a script is and how to write one. A script is a series of commands that the computer will follow in order to achieve the desired outcome. You can make a script by breaking up the entire operation into small tasks and then coding each individual task. A flowchart can be used to help break down the steps of the program. A computer sees the world around it through data driven models. These models can be broken down to objects, properties, events, and methods. It is a good practice to keep each of the languages in their own text file. JavaScript is written in its own .js file, HTML written in its own file, and CSS written in its own file. 
+One of the first things you need to know about programming is what a script is and how to write one. A script is a series of commands that the computer will follow in order to achieve the desired outcome. You can make a script by breaking up the entire operation into small tasks and then coding each individual task. A flowchart can be used to help break down the steps of the program. A computer sees the world around it through data driven models. These models can be broken down to objects, properties, events, and methods. It is a good practice to keep each of the languages in their own text file. JavaScript is written in its own .js file, HTML written in its own file, and CSS written in its own file.
+
+## Things I want to know more about
 
   [Table of Contents](README.md)
+  
