@@ -85,4 +85,9 @@ A script is a series of instructions that JavaScript gives the web browser. Each
 - Truthy: values treated as if they are true
 - Falsy: values treated as if they are false
 - Short circuit values: returns a value that stopped or caused  "short circuit" in the logical operator
-  [Table of Contents](README.md)
+
+## Things I want to know more about
+
+- mainly CSS styling. This usually takes me the most time to figure out. Also, how to make modern looking website with CSS. 
+
+[Table of Contents](README.md)
