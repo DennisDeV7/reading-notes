@@ -34,12 +34,38 @@
 
 ### Screen Size vs. Design
 
+Screen sizes can range from small phones to large desktop monitors. It's important that the website design can accomodate the size of any screen.
+
 ### Fixed width and liquid Layouts
+
+- Fixed Layout: hint is in the name, layout is fixed and tends to be designated with pixels
+- Liquid Layout: can change based on the size of the browser window, typically designated with percentages.
 
 ### Using grids
 
+A grid can help a designer position content on a page. This also helps with adding or replacing content very consistantly.
+
 ## JS Chapter 3: Functions, Methods, Objects
 
+- Functions: allows the user to group a series of statements so that they can be used repeatedly in a program.
+
+```js
+function sayHello(){
+  document.write('Hello!');
+}
+```
+
+- Methods: a function that is inside of an object
+
+- Objects: groups together sets of variables and functions to create a model
+
 ## Article: "6 Reasons for Pair Programming"
+
+1. Greater Efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social Skills
+5. Job interview readiness
+6. Work environment readiness
 
   [Table of Contents](README.md)
