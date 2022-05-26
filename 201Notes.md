@@ -18,6 +18,7 @@ This page contains a table of contents for all notes taken during Code 201 at Co
 - [Read 12](201read12.md)
 - [Read 13](201read13.md)
 - [Read 14](201read14.md)
+- [Read 14a](201read14a.md)
 - [Read 15](201read15.md)
 
  [Main Page](README.md)
