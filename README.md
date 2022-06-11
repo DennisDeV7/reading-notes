@@ -9,7 +9,9 @@ My name is Dennis DeVries
 
 ## Table of Contents
 
-- [Code 102 Reading Notes](102Notes.md)
-- [Code 201 Reading Notes](201Notes.md)
+- [Code 102 - Intro to Software Development](102Notes.md)
+- [Code 201 - Foundations of Software Development](201Notes.md)
+- [Code 301 - Intermediate Software Development](301Notes.md)
+- [Code 401 - Advanced Software Development](401Notes.md)
 
 [GitHub Profile](https://github.com/DennisDeV7)
