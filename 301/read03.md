@@ -81,6 +81,26 @@ Pass it as if it were a prop.
 4. How does the child component invoke a method that was passsed to it from a parent component?\
 Create the prop such as `this.props.increment(this.props.name)`
 
+## Class
+
+### Filter
+
+```js
+'use strict';
+
+let arr = [1,2,3,4,5,6,7,8];
+
+let newArr = arr.filter(num => num > 4);
+
+console.log (newArr); // [5,6,7,8]
+
+let strArr = ['cat', 'mouse', 'dog'];
+
+let newStrArr = strArr.filter(str => str.length === 3);
+
+console.log(newStrArr);
+```
+
 ## Things I Want to Learn More About
 
 map functions\
