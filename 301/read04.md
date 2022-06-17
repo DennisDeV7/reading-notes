@@ -31,5 +31,27 @@ x === y ? true: false;
 
 ## Class Notes
 
+```js
+'use strict';
+
+let arr = [4,2,78,3,81,14];
+let arr2 = [4,2,6,7,3];
+
+arr.sort((a,b) => a - b);
+console.log(arr); //[2,3,4,14,78,81]
+
+const months = ['March', 'Jan', 'Feb', 'Dec', 'april'];
+
+months.sort((a,b) => {
+  if (a.toLowerCase() < b.toLowerCase()) {
+    return -1; 
+  }
+  if (a.toLowerCase() > b.toLowerCase()) {
+    return 1; 
+  }
+});
+console.log(months); // ['april', 'Dec', 'Feb', 'Jan', 'March']
+```
+
 ## Things I want to learn more about
 
