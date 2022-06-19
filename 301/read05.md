@@ -35,4 +35,22 @@ The map method builds a new array after applying a function to all of the elemen
 
 ## Class Notes
 
+```js
+let numbers = [1, 2, 3, 4, 5];
+
+let totalSum = numbers.reduce((runningTotal, currentValue) => {
+  return runningTotal + currentValue;
+}, 0)
+
+console.log(totalSum); //15
+
+let strArr = ['b', 'a', 'n', 'a', 'n', 'a', 's'];
+
+let newStrArr = strArr.reduce((runningStr, currentValue) => {
+  return runningStr + currentValue;
+}, '');
+
+console.log(newStrArr); // bananas
+```
+
 ## Things I want to know more about
