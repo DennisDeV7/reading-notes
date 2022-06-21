@@ -37,4 +37,32 @@ Node is used to automate the process of developing a modern JavaScript applicati
 3. How does pair programming work?\
 In pair programming one person is the "driver" and is physically typing out the code. The other person is observing and guiding the driver to write the correct code and researching necessary topics to make the typer more efficient.
 
+## Class
+
+```js
+'use strict';
+
+let cat = 'cat';
+let copyCat = cat;
+console.log('cat', cat); // cat cat
+console.log('copyCat', copyCat); // copyCat cat
+
+copyCat = 'Boots';
+console.log('cat' , cat); // cat cat
+console.log('copyCat', copyCat); // copyCat Boots
+
+let pets = ['Fido', 'Spot', 'Sparky'];
+let copyPets = pets;
+console.log('pets', pets); // pets ['Fido', 'Spot', 'Sparky']
+console.log('copyPets', copyPets); // copyPets ['Fido', 'Spot', 'Sparky']
+
+copyPets.push('Buddy');
+console.log('pets', pets); // pets ['Fido', 'Spot', 'Sparky', 'Buddy']
+console.log('copyPets', copyPets); // copyPets ['Fido', 'Spot', 'Sparky', 'Buddy']
+// They are the same because copyPets is just a reference to the real array so if you push something to copyPets it is pushing it to the real array which is pets
+// We must use an spread function to genuinely copy an array
+let realCopyPets = [...pets];
+
+```
+
 ## Things I want to learn more about
