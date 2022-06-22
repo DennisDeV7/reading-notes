@@ -22,4 +22,8 @@ PATCH will do a partial update.
 
 I got the API Keys for Geocoding and Yelp. The Weather API is taking a long time to send the email and Movie API requires you to have a URL first.
 
+## Class
+
+
+
 ## Things I want to know more about
