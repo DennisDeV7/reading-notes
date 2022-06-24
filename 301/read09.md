@@ -26,4 +26,22 @@ Another Module can be brought into the current file by using module.export and t
 
 ## Class
 
+```js
+'use strict';
+
+let student = {
+  name: 'Steve',
+  legs: 2,
+  class: 301,
+  hairColor: 'Brown',
+  studies: true
+}
+// {name: 'Steve', legs: 2, hairColor: 'Brown', studies: true}
+let entries = Object.entries(student);
+console.log(entries);// [['name', 'Steve'], ['legs', 2], ['class', 301], ['hairColor', 'Brown'], ['studies', true]]
+
+let keys = Object.keys(student);
+console.log(keys); // ['name', 'legs', 'class', 'hairColor', 'studies']
+```
+
 ## Things I want to know more about
