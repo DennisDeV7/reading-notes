@@ -48,4 +48,26 @@ It is not as structured as SQL and has not relations so if you have multiple ref
 
 ## Class
 
+```js
+'use strict';
+
+let str = 'excellent';
+
+let res = str.split('');
+let res2 = res.join('-');
+let res3 = res2.toUpperCase();
+
+console.log(res3); // E-X-C-E-L-L-E-N-T
+
+let result = str.split('').join('-').toUpperCase();
+console.log(result) // E-X-C-E-L-L-E-N-T
+```
+
+Mongoose steps
+
+- Bring in mongoose
+- extract the Schema property from the mongoose object
+- Define our model
+- Export
+
 ## Things I want to learn more about
