@@ -21,4 +21,8 @@ CRUD principles are mapped to REST commands.
 
 ## Class
 
+```js
+
+```
+
 ## Things I want to know more about
