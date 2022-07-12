@@ -4,6 +4,7 @@ This page contains a table of contents for all notes taken during Code 401 at Co
 
 ## Table of Contents
 
+- [SQL](401/SQL.md)
 - [Read 01](401/read01.md)
 - [Read 02](401/read02.md)
 - [Read 03](401/read03.md)
