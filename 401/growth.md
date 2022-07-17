@@ -25,4 +25,3 @@ I read Angela Duckworth's book, "Grit" recently and have a few notes relative to
 ## Emotional Intelligence results
 
 After taking the quick emotional intelligence quiz I found that I scored higher in the awareness categories over the management categories. This makes sense to me I think I could improve by more group work and being involved with other people.
-
