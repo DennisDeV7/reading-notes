@@ -6,6 +6,7 @@ This page contains a table of contents for all notes taken during Code 401 at Co
 
 - [SQL](401/SQL.md)
 - [Bash Command Tutorials](401/bash.md)
+- [Growth Mindset](401/growth.md)
 - [Read 01](401/read01.md)
 - [Read 02](401/read02.md)
 - [Read 03](401/read03.md)
