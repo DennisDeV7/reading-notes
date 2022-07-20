@@ -26,7 +26,7 @@ Properties of Recursion:
 
 - Performing the same operation multiple times
 - Trying smaller inputs to make the problem smaller
-- A base condition is needed to stop the recursion  - preventing an infinite loop 
+- A base condition is needed to stop the recursion  - preventing an infinite loop
 
 Direct Recursion: a function that calls itself in the same function\
 Indirect Recursion: a function that calls a different function in itself.
