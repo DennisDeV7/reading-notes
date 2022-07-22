@@ -11,7 +11,7 @@ Cycling through lists is possible through a linked list. A linked list is a sequ
 
 ## How
 
-You can implement a linked list into your code by making a Node class and a Linked list class. You have to first instantiate the linked list class and then create the nodes by using the node class. See below for an example from tutorialspoint.com (https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=A%20linked%20list%20is%20a,lists%20in%20its%20standard%20library (Links to an external site.).)
+You can implement a linked list into your code by making a Node class and a Linked list class. You have to first instantiate the linked list class and then create the nodes by using the node class. See below for an example from tutorialspoint.com (https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm#:~:text=A%20linked%20list%20is%20a,lists%20in%20its%20standard%20library)
 
 ```py
 class Node:
