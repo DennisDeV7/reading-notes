@@ -98,4 +98,4 @@ This information is from the [python](https://docs.python.org/3.10/library/rando
 
 ## Things I want to learn more about
 
-Out of all of the articles. What I am most curious about is the Big O article because he slightly contradicts the Test Driven Development(TDD) method saying that if that it will result in poor testing and/or poor code.
+Out of all of the articles. What I am most curious about is the Test Coverage article because he slightly contradicts the Test Driven Development(TDD) method saying that if that it will result in poor testing and/or poor code.
