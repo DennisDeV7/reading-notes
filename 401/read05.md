@@ -33,3 +33,21 @@ list1.headval.nextval = e2
 # Link second Node to third node
 e2.nextval = e3
 ```
+
+## Class
+
+```py
+class LinkedList:
+  def __init__(self):
+    self.head = None
+
+class Node:
+  def __init__(self, value, next=None):
+    self.value = value
+    self.next = next
+
+nums = LinkedList()
+nums.head = Node(4)
+nums.head.next = Node(17)
+nums.head.next.next = Node(-4)
+```
