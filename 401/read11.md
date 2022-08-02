@@ -15,7 +15,7 @@ NumPy is a data analysis package.
 It can be used with different data types for example, csv. Accessing csv data requires the csv libarary. You can access the library with the simple line: `import csv` and open a csv file as you would any other file in Python: `with open('example.csv', 'r') as f:`
 
 In order to use the numpy library: `import numpy as np`
-example: 
+example:
 
 ```py
 import csv
@@ -31,4 +31,4 @@ example: `wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_heade
 
 ## Things I want to know more about
 
-Working with NumPy and how to best use it and potentially make graphs and so forth with the data. 
+Working with NumPy and how to best use it and potentially make graphs and so forth with the data.
