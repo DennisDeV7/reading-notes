@@ -59,3 +59,67 @@ plt.annotate(r'$\cos(\frac{2\pi}{3})=-\frac{1}{2}$',
 ## Things I want to know more about
 
 Everything I can do with these data related libraries. Jobs available for this area of programming.
+
+## Class
+
+you can and often want to use matplotlib, but sometimes you will want to use Seaborn
+
+```py
+def plot_some_lines():
+  x1 = [10,20,5,40,8]
+  x2 = [30,43,9,7,20]
+
+  plt.plot(x1, label="Group Spam")
+  plt.plot(x2, label="Group Eggs")
+  plt.legend()
+
+plot_some_lines()
+```
+
+Lets try Seaborn
+
+```py
+import seaborn as sns
+
+sns.set()
+plot_some_lines()
+```
+
+Built in Seaborn data set functions
+
+```py
+sns.load_dataset? # gives information on load_dataset
+sns.get_dataset_names() # gives a list of data set names available through the internet
+```
+
+```py
+mpg_df = sns.load_dataset("mpg")
+mpg_df.head()
+```
+
+info on four cylinder cars
+
+```py
+four_cylinders = mpg_df[mpg_df.cylinders == 4]
+four_cylinders.head()
+```
+
+Compare mpg for 4 cylinder vehicles in different countries
+
+```py
+four_cylinders = mpg_df[mpg_df.cylinders == 4]
+by_origin = four_cylinders.groupby("origin", as_index=False)
+mpg_by_origin = by_origin.mpg.mean()
+sns.barplot(x="origin", y="mpg", data=mpg_by_origin)
+print() # can sometimes clean it up if it prints a weird statement
+```
+
+```py
+sns.countplot(data=mpg_df, x="cylinders")
+print()
+```
+
+```py
+avg_mpg = mpg_df.groupby("model_year", as_index=False).mpg.mean()
+sns.relplot(x="model_year", y="mpg", data=avg_mpg)
+```
