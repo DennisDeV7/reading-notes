@@ -34,5 +34,6 @@ This page contains a table of contents for all notes taken during Code 401 at Co
 - [Read 30](401/read30.md)
 - [Read 31](401/read31.md)
 - [Read 32](401/read32.md)
+- [Read 33](401/read33.md)
 
 [Main Page](README.md)
